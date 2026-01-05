@@ -12,6 +12,9 @@
 
 <img width="1291" height="710" alt="image" src="https://github.com/user-attachments/assets/036d16ef-0022-4e24-9c90-4fb6c4c8878a" />
 
+* main.c 中，對 CAN 的主要定義如下 :
+  * CAN_TXID
+  * CAN_RXID
 <img width="999" height="482" alt="image" src="https://github.com/user-attachments/assets/2ad06b2a-18a5-420b-b237-cae8ec9719f3" />
 
 <img width="999" height="565" alt="image" src="https://github.com/user-attachments/assets/b16e39d4-e9c9-472c-bc5c-c95debb65170" />
